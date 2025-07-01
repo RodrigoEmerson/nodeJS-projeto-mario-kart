@@ -101,3 +101,77 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+---
+
+## 📄 Descrição
+
+Este projeto simula uma corrida de Mario Kart utilizando lógica de programação em Node.js. Dois personagens são escolhidos para competir em uma pista composta por 5 rodadas, onde cada rodada pode ser uma reta, curva ou confronto, seguindo regras inspiradas no clássico jogo da Nintendo.
+
+## ✨ Funcionalidades
+
+- Seleção de dois personagens para a corrida, cada um com atributos únicos.
+- Simulação de 5 rodadas com blocos aleatórios (reta, curva ou confronto).
+- Pontuação baseada nos atributos dos personagens e sorteio de dados.
+- Garantia de que nenhum jogador tenha pontuação negativa.
+- Determinação automática do vencedor ao final da corrida.
+
+## ⚙️ Pré-requisitos
+
+- [Node.js](https://nodejs.org/) (versão 14 ou superior)
+- npm (geralmente instalado junto com o Node.js)
+
+## 🛠️ Instalação
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/RodrigoEmerson/nodeJS-projeto-mario-kart.git
+   ```
+2. Acesse a pasta do projeto:
+   ```bash
+   cd nodeJS-projeto-mario-kart
+   ```
+3. Instale as dependências (se houver):
+   ```bash
+   npm install
+   ```
+
+## ▶️ Como Executar
+
+Execute o arquivo principal do projeto (por exemplo, `index.js`):
+
+```bash
+node index.js
+```
+
+Siga as instruções exibidas no terminal para selecionar os personagens e acompanhar a simulação da corrida.
+
+## 💡 Exemplo de Uso
+
+```
+Escolha o personagem 1: Mario
+Escolha o personagem 2: Bowser
+
+Rodada 1: Curva
+Mario tirou 4 no dado + Manobrabilidade (3) = 7
+Bowser tirou 2 no dado + Manobrabilidade (2) = 4
+Mario vence a rodada!
+
+... (demais rodadas)
+
+Vencedor: Mario!
+```
+
+## 📝 Observações
+
+- O projeto é uma simulação e não possui interface gráfica.
+- Os personagens e atributos podem ser facilmente modificados no código.
+- Sinta-se à vontade para contribuir ou sugerir melhorias.
+
+## 👤 Autor
+
+- [Rodrigo](https://github.com/RodrigoEmerson/nodeJS-projeto-mario-kart.git)
+
+## 📄 Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
