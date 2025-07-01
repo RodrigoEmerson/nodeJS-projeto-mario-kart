@@ -106,7 +106,8 @@
 
 ## 📄 Descrição
 
-Este projeto simula uma corrida de Mario Kart utilizando lógica de programação em Node.js. Dois personagens são escolhidos para competir em uma pista composta por 5 rodadas, onde cada rodada pode ser uma reta, curva ou confronto, seguindo regras inspiradas no clássico jogo da Nintendo.
+Este projeto simula uma corrida de Mario Kart utilizando lógica de programação em Node.js. como desafio da Digital Innovation One (DIO).
+ Dois personagens são escolhidos para competir em uma pista composta por 5 rodadas, onde cada rodada pode ser uma reta, curva ou confronto, seguindo regras inspiradas no clássico jogo da Nintendo.
 
 ## ✨ Funcionalidades
 
