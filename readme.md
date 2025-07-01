@@ -109,7 +109,7 @@
 Este projeto simula uma corrida de Mario Kart utilizando lógica de programação em Node.js. como desafio da Digital Innovation One (DIO).
  Dois personagens são escolhidos para competir em uma pista composta por 5 rodadas, onde cada rodada pode ser uma reta, curva ou confronto, seguindo regras inspiradas no clássico jogo da Nintendo.
 
-## O que você vai aprender desenvolvendo este projeto Mario Kart em Node.js
+## 📝 O que você vai aprender desenvolvendo este projeto Mario Kart em Node.js
 
 - Manipulação de objetos em JavaScript: Como criar e acessar propriedades de objetos para representar personagens e seus atributos.
 - Estruturas de controle: Uso de if, else, switch e laços (for) para controlar o fluxo do jogo.
